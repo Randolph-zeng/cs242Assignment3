@@ -1,0 +1,1517 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log>
+<logentry
+   revision="6987">
+<author>zzeng9</author>
+<date>2017-03-12T19:41:07.569431Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/zzeng9/Assignment3.0</path>
+</paths>
+<msg>empty directory
+
+</msg>
+</logentry>
+<logentry
+   revision="6618">
+<author>zzeng9</author>
+<date>2017-03-07T22:38:06.415499Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment2.1/webApi/cs242Api/admin.py</path>
+<path
+   action="A"
+   kind="dir">/zzeng9/Assignment2.1/webApi/webApi</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment2.1/webApi/webApi/wsgi.py</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment2.1/actors.png</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment2.1/scripts/graph.py</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment2.1/webApi/db.sqlite3</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment2.1/data.json</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment2.1/webApi/cs242Api/serializers.py</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment2.1/webApi/cs242Api/views.py</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment2.1/manualTestPlan.docx</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment2.1/webApi/cs242Api/__init__.py</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment2.1/webApi/manage.py</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment2.1/webApi/cs242Api/tests.py</path>
+<path
+   kind="dir"
+   action="A">/zzeng9/Assignment2.1/scripts</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment2.1/webApi/cs242Api/apps.py</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment2.1/webApi/webApi/urls.py</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment2.1/webApi/cs242Api/migrations/0001_initial.py</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment2.1/scripts/vertex.py</path>
+<path
+   action="A"
+   kind="dir">/zzeng9/Assignment2.1/webApi/cs242Api</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment2.1/manualTestPlan.pdf</path>
+<path
+   action="A"
+   kind="dir">/zzeng9/Assignment2.1</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment2.1/webApi/cs242Api/migrations/__init__.py</path>
+<path
+   action="A"
+   kind="dir">/zzeng9/Assignment2.1/tests</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment2.1/webApi/webApi/__init__.py</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment2.1/webApi/cs242Api/migrations/0002_auto_20170307_2043.py</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment2.1/webApi/webApi/settings.py</path>
+<path
+   kind="dir"
+   action="A">/zzeng9/Assignment2.1/webApi</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment2.1/webApi/cs242Api/models.py</path>
+<path
+   action="A"
+   kind="dir">/zzeng9/Assignment2.1/webApi/cs242Api/migrations</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment2.1/webApi/cs242Api/urls.py</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="6617">
+<author>zzeng9</author>
+<date>2017-03-07T22:37:38.284874Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/zzeng9/Assignment2.1</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="6605">
+<author>zzeng9</author>
+<date>2017-03-07T21:00:26.344177Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment2.1/webApi/webApi/__init__.py</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment2.1/webApi/cs242Api/migrations/0002_auto_20170307_2043.py</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment2.1/webApi/webApi/settings.py</path>
+<path
+   action="A"
+   kind="dir">/zzeng9/Assignment2.1/webApi</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment2.1/webApi/cs242Api/models.py</path>
+<path
+   action="A"
+   kind="dir">/zzeng9/Assignment2.1/webApi/cs242Api/migrations</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment2.1/webApi/cs242Api/urls.py</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment2.1/webApi/cs242Api/admin.py</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment2.1/actors.png</path>
+<path
+   action="A"
+   kind="dir">/zzeng9/Assignment2.1/webApi/webApi</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment2.1/webApi/webApi/wsgi.py</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment2.1/scripts/graph.py</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment2.1/webApi/db.sqlite3</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment2.1/webApi/cs242Api/serializers.py</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment2.1/data.json</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment2.1/webApi/cs242Api/views.py</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment2.1/webApi/cs242Api/__init__.py</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment2.1/webApi/manage.py</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment2.1/webApi/cs242Api/tests.py</path>
+<path
+   kind="dir"
+   action="A">/zzeng9/Assignment2.1/scripts</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment2.1/webApi/cs242Api/apps.py</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment2.1/webApi/webApi/urls.py</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment2.1/webApi/cs242Api/migrations/0001_initial.py</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment2.1/scripts/vertex.py</path>
+<path
+   kind="dir"
+   action="A">/zzeng9/Assignment2.1/webApi/cs242Api</path>
+<path
+   kind="dir"
+   action="A">/zzeng9/Assignment2.1</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment2.1/webApi/cs242Api/migrations/__init__.py</path>
+<path
+   kind="dir"
+   action="A">/zzeng9/Assignment2.1/tests</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="5996">
+<author>zzeng9</author>
+<date>2017-02-28T22:08:46.279414Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment2.0/README.md</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment2.0/webScraper/actor.py</path>
+<path
+   action="A"
+   kind="dir">/zzeng9/Assignment2.0/webScraper</path>
+<path
+   kind="dir"
+   action="A">/zzeng9/Assignment2.0</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment2.0/webScraper/actors.json</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment2.0/webScraper/movie.py</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment2.0/webScraper/movies.json</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment2.0/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment2.0/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment2.0/webScraper.log</path>
+<path
+   action="A"
+   kind="dir">/zzeng9/Assignment2.0/test</path>
+<path
+   kind="dir"
+   action="A">/zzeng9/Assignment2.0/.idea</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment2.0/webScraper/scraper.py</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment2.0/test/test.py</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment2.0/.idea/modules.xml</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment2.0/.idea/Assignment 2.0.iml</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="5995">
+<author>zzeng9</author>
+<date>2017-02-28T22:08:17.362227Z</date>
+<paths>
+<path
+   action="D"
+   kind="dir">/zzeng9/Assignment2.0</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="5956">
+<author>zzeng9</author>
+<date>2017-02-28T17:37:24.067244Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment2.0/webScraper/movie.py</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment2.0/webScraper/scraper.py</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment2.0/test/test.py</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment2.0/webScraper/movies.json</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment2.0/.idea/modules.xml</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment2.0/.idea/Assignment 2.0.iml</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment2.0/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment2.0/README.md</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment2.0/webScraper/actor.py</path>
+<path
+   kind="dir"
+   action="A">/zzeng9/Assignment2.0/webScraper</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment2.0/webScraper.log</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment2.0/.idea/workspace.xml</path>
+<path
+   action="A"
+   kind="dir">/zzeng9/Assignment2.0/test</path>
+<path
+   kind="dir"
+   action="A">/zzeng9/Assignment2.0</path>
+<path
+   action="A"
+   kind="dir">/zzeng9/Assignment2.0/.idea</path>
+</paths>
+<msg>first submission-allow json exportion and movie scraping
+</msg>
+</logentry>
+<logentry
+   revision="5413">
+<author>zzeng9</author>
+<date>2017-02-21T22:09:24.739818Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/test/pieces/WazirTest.java</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/src/gameLogics/images/white_rook.png</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/src/pieces/Piece.java</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/src/gameLogics/images/black.png</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/src/gameLogics/GUI.java</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/manualTestPlan.txt</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/src/gameLogics/GameLogic.java</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/src/gameLogics/images/white.png</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/src/pieces/Wazir.java</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/src/gameLogics/images/board.jpg</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/test/pieces/PawnTest.java</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/test/pieces/FerzTest.java</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/src/pieces/Pawn.java</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/test/pieces/QueenTest.java</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/src/pieces/Ferz.java</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/src/gameLogics/images/black_ferz.png</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/test/pieces/BishopTest.java</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/test/pieces/KnightTest.java</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/src/pieces/Queen.java</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/test/pieces/KingTest.java</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/manualTestPlan.pdf</path>
+<path
+   kind="dir"
+   action="A">/zzeng9/Assignment1.2</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/src/gameLogics/images/black_queen.png</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/src/pieces/Knight.java</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/src/pieces/Bishop.java</path>
+<path
+   action="A"
+   kind="dir">/zzeng9/Assignment1.2/src/gameLogics/images</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/src/gameLogics/images/white_queen.png</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/src/pieces/King.java</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/src/gameLogics/Coordinate.java</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/src/gameLogics/Board.java</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/src/gameLogics/images/black_bishop.png</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/src/gameLogics/images/black_knight.png</path>
+<path
+   action="A"
+   kind="dir">/zzeng9/Assignment1.2/test/AllTests</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/src/gameLogics/images/black_king.png</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/src/gameLogics/images/white_bishop.png</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/src/gameLogics/images/white_knight.png</path>
+<path
+   kind="dir"
+   action="A">/zzeng9/Assignment1.2/test</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/src/gameLogics/images/white_king.png</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/test/pieces/RookTest.java</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/src/gameLogics/images/black_wazir.png</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/manualTestPlan.docx</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/test/AllTests/AllTests.java</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/src/gameLogics/images/white_wazir.png</path>
+<path
+   kind="dir"
+   action="A">/zzeng9/Assignment1.2/src</path>
+<path
+   action="A"
+   kind="dir">/zzeng9/Assignment1.2/test/pieces</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/src/pieces/Rook.java</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/src/gameLogics/images/black_pawn.png</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/src/gameLogics/images/white_pawn.png</path>
+<path
+   kind="dir"
+   action="A">/zzeng9/Assignment1.2/src/pieces</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/src/gameLogics/images/white_Ferz.png</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/src/gameLogics/images/black_rook.png</path>
+<path
+   action="A"
+   kind="dir">/zzeng9/Assignment1.2/src/gameLogics</path>
+</paths>
+<msg>check prompted</msg>
+</logentry>
+<logentry
+   revision="5412">
+<author>zzeng9</author>
+<date>2017-02-21T22:09:05.761817Z</date>
+<paths>
+<path
+   action="D"
+   kind="dir">/zzeng9/Assignment1.2</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="5409">
+<author>zzeng9</author>
+<date>2017-02-21T21:55:14.132352Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/zzeng9/Assignment1.2/test</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/src/gameLogics/images/white_king.png</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/test/gameLogics/GameTest.java</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/src/pieces/Rook.java</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/src/gameLogics/images/black_pawn.png</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/test/pieces/BishopTest.java</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/test/pieces/KnightTest.java</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/src/pieces/Queen.java</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/src/gameLogics/images/white_pawn.png</path>
+<path
+   kind="dir"
+   action="A">/zzeng9/Assignment1.2/src/pieces</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/test/pieces/KingTest.java</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/src/gameLogics/images/white_Ferz.png</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/src/gameLogics/images/black_rook.png</path>
+<path
+   kind="dir"
+   action="A">/zzeng9/Assignment1.2</path>
+<path
+   kind="dir"
+   action="A">/zzeng9/Assignment1.2/src/gameLogics</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/src/gameLogics/images/black_queen.png</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/test/pieces/WazirTest.java</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/src/gameLogics/images/white_rook.png</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/manualTestPlan.txt</path>
+<path
+   action="A"
+   kind="dir">/zzeng9/Assignment1.2/src/gameLogics/images</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/src/gameLogics/images/white_queen.png</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/src/gameLogics/Board.java</path>
+<path
+   kind="dir"
+   action="A">/zzeng9/Assignment1.2/test/AllTests</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/test/pieces/RookTest.java</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/src/gameLogics/images/black_wazir.png</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/src/pieces/Pawn.java</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/manualTestPlan.docx</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/test/pieces/QueenTest.java</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/src/pieces/Ferz.java</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/test/AllTests/AllTests.java</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/src/gameLogics/images/white_wazir.png</path>
+<path
+   kind="dir"
+   action="A">/zzeng9/Assignment1.2/src</path>
+<path
+   action="A"
+   kind="dir">/zzeng9/Assignment1.2/test/pieces</path>
+<path
+   action="A"
+   kind="dir">/zzeng9/Assignment1.2/test/gameLogics</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/src/gameLogics/images/black_ferz.png</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/manualTestPlan.pdf</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/test/gameLogics/BoardTest.java</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/src/pieces/Knight.java</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/src/pieces/Bishop.java</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/src/pieces/Piece.java</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/src/gameLogics/images/black.png</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/src/gameLogics/GUI.java</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/src/pieces/King.java</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/src/gameLogics/GameLogic.java</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/src/gameLogics/Coordinate.java</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/src/gameLogics/images/black_bishop.png</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/src/gameLogics/images/black_knight.png</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/src/gameLogics/images/white.png</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/src/pieces/Wazir.java</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/src/gameLogics/images/board.jpg</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/test/pieces/PawnTest.java</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/src/gameLogics/images/black_king.png</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/src/gameLogics/images/white_bishop.png</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/src/gameLogics/images/white_knight.png</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/test/pieces/FerzTest.java</path>
+</paths>
+<msg>undo and start new game implemented</msg>
+</logentry>
+<logentry
+   revision="5408">
+<author>zzeng9</author>
+<date>2017-02-21T21:51:43.246044Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/zzeng9/Assignment1.2</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="5403">
+<author>zzeng9</author>
+<date>2017-02-21T21:03:06.526735Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/src/gameLogics/images/white_pawn.png</path>
+<path
+   action="A"
+   kind="dir">/zzeng9/Assignment1.2/src/pieces</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/src/gameLogics/images/black_rook.png</path>
+<path
+   kind="dir"
+   action="A">/zzeng9/Assignment1.2/src/gameLogics</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/test/pieces/WazirTest.java</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/src/gameLogics/images/white_rook.png</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/src/pieces/Piece.java</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/src/gameLogics/GUI.java</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/src/gameLogics/images/black.png</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/manualTestPlan.txt</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/src/gameLogics/GameLogic.java</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/src/gameLogics/images/white.png</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/src/pieces/Wazir.java</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/src/gameLogics/images/board.jpg</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/test/pieces/PawnTest.java</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/test/pieces/FerzTest.java</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/test/gameLogics/GameTest.java</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/src/pieces/Pawn.java</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/test/pieces/QueenTest.java</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/src/pieces/Ferz.java</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/test/pieces/BishopTest.java</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/test/pieces/KnightTest.java</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/src/pieces/Queen.java</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/test/pieces/KingTest.java</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/manualTestPlan.pdf</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/test/gameLogics/BoardTest.java</path>
+<path
+   action="A"
+   kind="dir">/zzeng9/Assignment1.2</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/src/gameLogics/images/black_queen.png</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/src/pieces/Knight.java</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/src/pieces/Bishop.java</path>
+<path
+   action="A"
+   kind="dir">/zzeng9/Assignment1.2/src/gameLogics/images</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/src/gameLogics/images/white_queen.png</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/src/pieces/King.java</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/src/gameLogics/Coordinate.java</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/src/gameLogics/Board.java</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/src/gameLogics/images/black_bishop.png</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/src/gameLogics/images/black_knight.png</path>
+<path
+   kind="dir"
+   action="A">/zzeng9/Assignment1.2/test/AllTests</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/src/gameLogics/images/black_king.png</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/src/gameLogics/images/white_bishop.png</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/src/gameLogics/images/white_knight.png</path>
+<path
+   action="A"
+   kind="dir">/zzeng9/Assignment1.2/test</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/src/gameLogics/images/white_king.png</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/test/pieces/RookTest.java</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/manualTestPlan.docx</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/test/AllTests/AllTests.java</path>
+<path
+   kind="dir"
+   action="A">/zzeng9/Assignment1.2/src</path>
+<path
+   kind="dir"
+   action="A">/zzeng9/Assignment1.2/test/pieces</path>
+<path
+   kind="dir"
+   action="A">/zzeng9/Assignment1.2/test/gameLogics</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/src/pieces/Rook.java</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/src/gameLogics/images/black_pawn.png</path>
+</paths>
+<msg>undo and start new game implemented</msg>
+</logentry>
+<logentry
+   revision="5401">
+<author>zzeng9</author>
+<date>2017-02-21T20:52:31.286294Z</date>
+<paths>
+<path
+   action="D"
+   kind="dir">/zzeng9/Assignment1.2</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="5363">
+<author>zzeng9</author>
+<date>2017-02-21T17:57:59.884675Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/zzeng9/Assignment1.2/test/AllTests</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/src/gameLogics/images/black_king.png</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/src/gameLogics/images/white_bishop.png</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/src/gameLogics/images/white_knight.png</path>
+<path
+   kind="dir"
+   action="A">/zzeng9/Assignment1.2/test</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/src/gameLogics/images/white_king.png</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/test/pieces/RookTest.java</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/test/AllTests/AllTests.java</path>
+<path
+   action="A"
+   kind="dir">/zzeng9/Assignment1.2/src</path>
+<path
+   kind="dir"
+   action="A">/zzeng9/Assignment1.2/test/pieces</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/src/pieces/Rook.java</path>
+<path
+   action="A"
+   kind="dir">/zzeng9/Assignment1.2/test/gameLogics</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/src/gameLogics/images/black_pawn.png</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/src/gameLogics/images/white_pawn.png</path>
+<path
+   kind="dir"
+   action="A">/zzeng9/Assignment1.2/src/pieces</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/src/gameLogics/images/black_rook.png</path>
+<path
+   action="A"
+   kind="dir">/zzeng9/Assignment1.2/src/gameLogics</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/test/pieces/WazirTest.java</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/src/gameLogics/images/white_rook.png</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/src/pieces/Piece.java</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/src/gameLogics/GUI.java</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/src/gameLogics/images/black.png</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/manualTestPlan.txt</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/src/gameLogics/GameLogic.java</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/src/gameLogics/images/white.png</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/src/pieces/Wazir.java</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/src/gameLogics/images/board.jpg</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/test/pieces/PawnTest.java</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/test/pieces/FerzTest.java</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/test/gameLogics/GameTest.java</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/src/pieces/Pawn.java</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/test/pieces/QueenTest.java</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/src/pieces/Ferz.java</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/test/pieces/BishopTest.java</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/test/pieces/KnightTest.java</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/src/pieces/Queen.java</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/test/pieces/KingTest.java</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/test/gameLogics/BoardTest.java</path>
+<path
+   kind="dir"
+   action="A">/zzeng9/Assignment1.2</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/src/gameLogics/images/black_queen.png</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/src/pieces/Knight.java</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/src/pieces/Bishop.java</path>
+<path
+   action="A"
+   kind="dir">/zzeng9/Assignment1.2/src/gameLogics/images</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/src/gameLogics/images/white_queen.png</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/src/pieces/King.java</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.2/src/gameLogics/Coordinate.java</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/src/gameLogics/Board.java</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/src/gameLogics/images/black_bishop.png</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.2/src/gameLogics/images/black_knight.png</path>
+</paths>
+<msg>without undo for now</msg>
+</logentry>
+<logentry
+   revision="4693">
+<author>zzeng9</author>
+<date>2017-02-14T22:03:56.899360Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/zzeng9/Assignment1.1/manualTestPlan.txt</path>
+</paths>
+<msg>add the manual</msg>
+</logentry>
+<logentry
+   revision="4692">
+<author>zzeng9</author>
+<date>2017-02-14T22:01:54.386423Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.1/src/gameLogics/images/white.png</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.1/src/gameLogics/images/black_knight.png</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.1/src/gameLogics/images/black_bishop.png</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.1/src/pieces/Wazir.java</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.1/test/pieces/PawnTest.java</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.1/src/gameLogics/images/board.jpg</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.1/test/pieces/FerzTest.java</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.1/src/gameLogics/images/white_bishop.png</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.1/src/gameLogics/images/black_king.png</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.1/src/gameLogics/images/white_knight.png</path>
+<path
+   action="A"
+   kind="dir">/zzeng9/Assignment1.1/test</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.1/src/gameLogics/images/white_king.png</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.1/test/gameLogics/GameTest.java</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.1/src/pieces/Rook.java</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.1/src/gameLogics/images/black_pawn.png</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.1/test/pieces/KnightTest.java</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.1/test/pieces/BishopTest.java</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.1/src/gameLogics/chessGUI.java</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.1/src/pieces/Queen.java</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.1/src/gameLogics/images/white_pawn.png</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.1/test/pieces/KingTest.java</path>
+<path
+   kind="dir"
+   action="A">/zzeng9/Assignment1.1/src/pieces</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.1/src/gameLogics/images/black_rook.png</path>
+<path
+   action="A"
+   kind="dir">/zzeng9/Assignment1.1/src/gameLogics</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.1/src/gameLogics/images/black_queen.png</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.1/src/gameLogics/images/white_rook.png</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.1/test/pieces/WazirTest.java</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.1/manualTestPlan.txt</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.1/src/gameLogics/images/white_queen.png</path>
+<path
+   action="A"
+   kind="dir">/zzeng9/Assignment1.1/src/gameLogics/images</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.1/src/gameLogics/Board.java</path>
+<path
+   kind="dir"
+   action="A">/zzeng9/Assignment1.1/test/AllTests</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.1/test/pieces/RookTest.java</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.1/Doxyfile</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.1/test/pieces/QueenTest.java</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.1/src/pieces/Pawn.java</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.1/src/pieces/Ferz.java</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.1/test/AllTests/AllTests.java</path>
+<path
+   action="A"
+   kind="dir">/zzeng9/Assignment1.1/src</path>
+<path
+   kind="dir"
+   action="A">/zzeng9/Assignment1.1/test/pieces</path>
+<path
+   action="A"
+   kind="dir">/zzeng9/Assignment1.1/test/gameLogics</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.1/src/gameLogics/Game.java</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.1/test/gameLogics/BoardTest.java</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.1/src/pieces/Bishop.java</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.1/src/pieces/Knight.java</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.1/src/pieces/Piece.java</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.1/src/gameLogics/images/black.png</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.1/src/pieces/King.java</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.1/src/gameLogics/Coordinate.java</path>
+</paths>
+<msg>Assignment 1.1</msg>
+</logentry>
+<logentry
+   revision="4677">
+<author>zzeng9</author>
+<date>2017-02-14T21:43:17.932831Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/zzeng9/Assignment1.1</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="3176">
+<author>zzeng9</author>
+<date>2017-02-03T07:23:08.630726Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/zzeng9/Assignment1.0/src/pieces/Bishop.java</path>
+<path
+   kind="file"
+   action="M">/zzeng9/Assignment1.0/src/pieces/Knight.java</path>
+<path
+   action="M"
+   kind="file">/zzeng9/Assignment1.0/src/pieces/Piece.java</path>
+<path
+   kind="dir"
+   action="D">/zzeng9/Assignment1.0/bin</path>
+<path
+   kind="file"
+   action="M">/zzeng9/Assignment1.0/src/gameLogics/Board.java</path>
+<path
+   kind="file"
+   action="M">/zzeng9/Assignment1.0/src/gameLogics/Coordinate.java</path>
+<path
+   kind="file"
+   action="M">/zzeng9/Assignment1.0/test/pieces/PawnTest.java</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.0/test/pieces/RookTest.java</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.0/test/pieces/QueenTest.java</path>
+<path
+   kind="file"
+   action="D">/zzeng9/Assignment1.0/src/pieces/obsolete.txt</path>
+<path
+   action="A"
+   kind="dir">/zzeng9/Assignment1.0/test/gameLogics</path>
+<path
+   action="M"
+   kind="file">/zzeng9/Assignment1.0/src/gameLogics/Game.java</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.0/test/pieces/BishopTest.java</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.0/test/pieces/KnightTest.java</path>
+<path
+   kind="file"
+   action="M">/zzeng9/Assignment1.0/src/pieces/Queen.java</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.0/test/gameLogics/BoardTest.java</path>
+</paths>
+<msg>game logic finished</msg>
+</logentry>
+<logentry
+   revision="3146">
+<author>zzeng9</author>
+<date>2017-02-02T19:36:22.387118Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.0/bin/pieces/Queen.class</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.0/src/pieces/Bishop.java</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.0/src/pieces/Knight.java</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.0/src/pieces/Piece.java</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.0/src/pieces/King.java</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.0/src/gameLogics/Coordinate.java</path>
+<path
+   action="A"
+   kind="dir">/zzeng9/Assignment1.0/bin</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.0/bin/pieces/obsolete.txt</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.0/test/pieces/PawnTest.java</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.0/bin/gameLogics/Coordinate.class</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.0/bin/gameLogics/Board.class</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.0/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   action="A"
+   kind="dir">/zzeng9/Assignment1.0/test</path>
+<path
+   kind="dir"
+   action="A">/zzeng9/Assignment1.0/bin/pieces</path>
+<path
+   action="A"
+   kind="dir">/zzeng9/Assignment1.0/bin/gameLogics</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.0/src/pieces/Rook.java</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.0/src/pieces/Queen.java</path>
+<path
+   kind="dir"
+   action="A">/zzeng9/Assignment1.0/src/pieces</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.0/test/pieces/KingTest.java</path>
+<path
+   kind="dir"
+   action="A">/zzeng9/Assignment1.0</path>
+<path
+   action="A"
+   kind="dir">/zzeng9/Assignment1.0/src/gameLogics</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.0/.gitignore</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.0/bin/pieces/Knight.class</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.0/bin/pieces/Bishop.class</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.0/src/gameLogics/Board.java</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.0/bin/pieces/Piece.class</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.0/bin/pieces/KingTest.class</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.0/bin/pieces/King.class</path>
+<path
+   kind="dir"
+   action="A">/zzeng9/Assignment1.0/.settings</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.0/.project</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.0/src/pieces/Pawn.java</path>
+<path
+   kind="dir"
+   action="A">/zzeng9/Assignment1.0/test/pieces</path>
+<path
+   kind="dir"
+   action="A">/zzeng9/Assignment1.0/src</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.0/src/pieces/obsolete.txt</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.0/bin/pieces/Pawn.class</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.0/bin/pieces/PawnTest.class</path>
+<path
+   kind="file"
+   action="A">/zzeng9/Assignment1.0/src/gameLogics/Game.java</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.0/bin/pieces/Rook.class</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.0/bin/gameLogics/Game.class</path>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment1.0/.classpath</path>
+</paths>
+<msg>first commit of my chess proj</msg>
+</logentry>
+<logentry
+   revision="2267">
+<author>zzeng9</author>
+<date>2017-01-30T23:03:37.630628Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/zzeng9/Assignment0/viewer-setup.js</path>
+<path
+   kind="dir"
+   action="A">/zzeng9/Assignment0</path>
+</paths>
+<msg>400 lines of code</msg>
+</logentry>
+<logentry
+   revision="2239">
+<author>zzeng9</author>
+<date>2017-01-30T22:30:49.317680Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/zzeng9/HW0/bin/lanSimulation/tests/LANTests.class</path>
+<path
+   action="A"
+   kind="file">/zzeng9/HW0/doc/LANSimulationDocument.pdf</path>
+<path
+   kind="file"
+   action="A">/zzeng9/HW0/useOutput.txt</path>
+<path
+   action="A"
+   kind="file">/zzeng9/HW0/.classpath</path>
+<path
+   kind="file"
+   action="A">/zzeng9/HW0/expectedOutput.txt</path>
+<path
+   kind="file"
+   action="A">/zzeng9/HW0/bin/lanSimulation/internals/Packet.class</path>
+<path
+   kind="dir"
+   action="A">/zzeng9/HW0/doc</path>
+<path
+   kind="file"
+   action="A">/zzeng9/HW0/src/lanSimulation/LANSimulation.java</path>
+<path
+   action="A"
+   kind="file">/zzeng9/HW0/javadoc.xml</path>
+<path
+   action="A"
+   kind="file">/zzeng9/HW0/doc/toDoList</path>
+<path
+   kind="dir"
+   action="A">/zzeng9/HW0/src/lanSimulation/tests</path>
+<path
+   action="A"
+   kind="dir">/zzeng9/HW0/bin</path>
+<path
+   action="A"
+   kind="file">/zzeng9/HW0/COPYING</path>
+<path
+   action="A"
+   kind="file">/zzeng9/HW0/doc/RefactoringAssignment.pdf</path>
+<path
+   action="A"
+   kind="file">/zzeng9/HW0/src/lanSimulation/internals/Node.java</path>
+<path
+   action="A"
+   kind="file">/zzeng9/HW0/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   kind="file"
+   action="A">/zzeng9/HW0/bin/lanSimulation/Network.class</path>
+<path
+   action="A"
+   kind="dir">/zzeng9/HW0/bin/lanSimulation/tests</path>
+<path
+   kind="file"
+   action="A">/zzeng9/HW0/src/lanSimulation/internals/Packet.java</path>
+<path
+   kind="file"
+   action="A">/zzeng9/HW0/bin/lanSimulation/tests/LANTests$PreconditionViolationTestCase.class</path>
+<path
+   kind="dir"
+   action="A">/zzeng9/HW0</path>
+<path
+   kind="file"
+   action="A">/zzeng9/HW0/doc/README</path>
+<path
+   kind="dir"
+   action="A">/zzeng9/HW0/src/lanSimulation/internals</path>
+<path
+   action="A"
+   kind="dir">/zzeng9/HW0/src/lanSimulation</path>
+<path
+   action="A"
+   kind="file">/zzeng9/HW0/bin/lanSimulation/LANSimulation.class</path>
+<path
+   action="A"
+   kind="dir">/zzeng9/HW0/.settings</path>
+<path
+   action="A"
+   kind="file">/zzeng9/HW0/bin/lanSimulation/internals/Node.class</path>
+<path
+   action="A"
+   kind="file">/zzeng9/HW0/src/lanSimulation/Network.java</path>
+<path
+   action="A"
+   kind="file">/zzeng9/HW0/.project</path>
+<path
+   action="A"
+   kind="file">/zzeng9/HW0/src/lanSimulation/tests/LANTests.java</path>
+<path
+   kind="dir"
+   action="A">/zzeng9/HW0/bin/lanSimulation/internals</path>
+<path
+   kind="dir"
+   action="A">/zzeng9/HW0/src</path>
+<path
+   action="A"
+   kind="dir">/zzeng9/HW0/bin/lanSimulation</path>
+</paths>
+<msg>checking in HW0</msg>
+</logentry>
+<logentry
+   revision="197">
+<author>root</author>
+<date>2017-01-24T19:28:07.018446Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/zzeng9</path>
+</paths>
+<msg>created directory zzeng9</msg>
+</logentry>
+</log>
