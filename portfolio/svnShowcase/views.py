@@ -15,7 +15,7 @@ def getPortfolio(request):
     # value is a list containing dictionaries for every file in this project
     # the keys are
     files_info = {}
-    with open('../svn_list.xml') as file:
+    with open('/home/ruiss9/cs242Assignment3/svn_list.xml') as file:
         root = etree.XML(file.read())
 
     #find all project names
@@ -28,6 +28,7 @@ def getPortfolio(request):
             projects_info[key.text]['date'] = entry.find('commit').find('date').text
     for prj_name in projects_info:
         files_info[prj_name] = {}
+        files_info[prj_name][prj_name] = projects_info[prj_name]
 
     #find all files
     for entry in root.iter('entry'):
