@@ -44,33 +44,10 @@ Released   : 20131006
 
 <div id="wrapper3">
 	<div id="portfolio" class="container">
-		<div class="title">
-			<h2>Code Portfolio</h2>
-			<span class="byline">The code projects of Randolph in cs242 programming studio</span> </div>
-		<div class="column1">
-			<div class="box"> <a href="#"><img src="/static/images/scr01.jpg" alt="" class="image image-full" /></a>
-				<h3>Vestibulum venenatis</h3>
-				<p>Fermentum nibh augue praesent a lacus at urna congue rutrum.</p>
-				<a href="#" class="button button-small">Etiam posuere</a> </div>
-		</div>
-		<div class="column2">
-			<div class="box"> <a href="#"><img src="/static/images/scr02.jpg" alt="" class="image image-full" /></a>
-				<h3>Praesent scelerisque</h3>
-				<p>Vivamus fermentum nibh in augue praesent urna congue rutrum.</p>
-				<a href="#" class="button button-small">Etiam posuere</a> </div>
-		</div>
-		<div class="column3">
-			<div class="box"> <a href="#"><img src="/static/images/scr03.jpg" alt="" class="image image-full" /></a>
-				<h3>Donec dictum metus</h3>
-				<p>Vivamus fermentum nibh in augue praesent urna congue rutrum.</p>
-				<a href="#" class="button button-small">Etiam posuere</a> </div>
-		</div>
-		<div class="column4">
-			<div class="box"> <a href="#"><img src="/static/images/scr04.jpg" alt="" class="image image-full" /></a>
-				<h3>Mauris vulputate dolor</h3>
-				<p>Rutrum fermentum nibh in augue praesent urna congue rutrum.</p>
-				<a href="#" class="button button-small">Etiam posuere</a> </div>
-		</div>
+	    <div class="title">
+            <h2>Code Portfolio</h2>
+            <span class="byline">The code projects of Randolph in cs242 programming studio</span>
+         </div>>
 	</div>
 </div>
 <div id="wrapper1">
@@ -137,7 +114,15 @@ Released   : 20131006
 $(document).ready(function(){
 	$.get( "http://ruiss9.pythonanywhere.com/portfolio/", function( data ) {
   	console.log( "Data Loaded: " + data );
-	});
+    for (var key in data) {
+      if (data.hasOwnProperty(key)) {
+      $("#portfolio").append("<div class='column1'><div class='box'> <a href='#'><img src='/static/images/scr01.jpg' class='image image-full'/></a><h3>" + data[key][key]['title'] +"</h3><p>date:  " + data[key][key]['date'] +"<br>version:  " + data[key][key]['version']  + "</p>" + "<a href='http://ruiss9.pythonanywhere.com/files/"+key+ "' class='button button-small'> Enter projects </a> </div>");
+        for(var attr in data[key][key]){
+            console.log(attr + data[key][key][attr]);
+        }
+      }
+    }
+    });
 });
 </script>
 </body>

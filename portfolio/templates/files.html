@@ -6,7 +6,7 @@
     <!-- Meta info -->
     <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pyaari Free Website HTML Template - By 198seven</title>
+    <title>Project files</title>
     <meta content="" name="description">
     <meta name="author" content="">
     <meta name="format-detection" content="">
@@ -39,16 +39,7 @@
     </div>
 </header>
 <div id="our-work">
-    <ul>
-<li><a href="project-detail-page.html"><img src="/static/images/scr02.jpg" alt="Pyaari"><div class="overlay"><summary><h2>198seven</h2><h3>Pencil work, Adobe illustrator</h3></summary><div class="loves"><span>77</span></div></div></a></li>
-<li><a href="project-detail-page.html"><img src="/static/images/scr02.jpg" alt="Pyaari"><div class="overlay"><summary><h2>Chaosina</h2><h3>Identity, Website &amp; Photography</h3></summary><div class="loves"><span>22</span></div></div></a></li>
-<li><a href="project-detail-page.html"><img src="/static/images/scr02.jpg" alt="Pyaari"><div class="overlay"><summary><h2>198seven</h2><h3>Website &amp; Brandind</h3></summary><div class="loves"><span>12</span></div></div></a></li>
-<li><a href="project-detail-page.html"><img src="/static/images/scr02.jpg" alt="Pyaari"><div class="overlay"><summary><h2>198seven</h2><h3>Website &amp; Brandind</h3></summary><div class="loves"><span>12</span></div></div></a></li>
-<li><a href="project-detail-page.html"><img src="/static/images/scr02.jpg" alt="Pyaari"><div class="overlay"><summary><h2>198seven</h2><h3>Website &amp; Brandind</h3></summary><div class="loves"><span>12</span></div></div></a></li>
-<li><a href="project-detail-page.html"><img src="/static/images/scr02.jpg" alt="Pyaari"><div class="overlay"><summary><h2>198seven</h2><h3>Website &amp; Brandind</h3></summary><div class="loves"><span>12</span></div></div></a></li>
 
-
-</ul>
 </div>
 </section>
 
@@ -100,17 +91,26 @@
     <script src="/static/scripts/pyaari-main.1.0.js"></script>
     <script src="/static/scripts/pyaari-menu.1.0.js"></script>
     <script>
-        $(document).ready(function () {
-            PfdMenu._ctor();
-        });
-    </script>
-    
+    $(document).ready(function(){
+         $.get( "http://ruiss9.pythonanywhere.com/portfolio/", function( data ) {
+             console.log( "Data Loaded: " + data );
+             var splits = window.location.href.split('/');
+             var proj = splits[splits.length-1];
+             var filelist = $("#our-work").append('<ul></ul>').find('ul');
+             for (var key in data[proj]) {
+                if (data[proj].hasOwnProperty(key)) {
+                    if(key != proj){
+                    filelist.append("<li style='margin: 70px 70px;' ><a href='project-detail-page.html'><img src='/static/images/file_icon.png' alt='Pyaari'><div class='overlay'><summary><h3>Name: "+data[proj][key]['name'] + "</h3><h3>author: "+data[proj][key]['author']+"<br>size: " +data[proj][key]['size'] +  "</h3></summary><div class='loves'><span>like </span></div></div></a></li>"); 
+                    }
+                }
+             }
 
-    <script>
-    	$(document).ready(function(){
-	       ReadMore.init();
-    	})
-    </script>
+            });
+         PfdMenu._ctor();
+         ReadMore.init();
+        });
+     </script>
+
 
 
 </body>
